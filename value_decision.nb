@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     10686,        313]
-NotebookOptionsPosition[     10282,        294]
-NotebookOutlinePosition[     10636,        310]
-CellTagsIndexPosition[     10593,        307]
+NotebookDataLength[     10828,        316]
+NotebookOptionsPosition[     10425,        297]
+NotebookOutlinePosition[     10778,        313]
+CellTagsIndexPosition[     10735,        310]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -285,15 +285,18 @@ Cell[BoxData[
      RowBox[{"{", 
       RowBox[{"w", ",", "1", ",", "24", ",", "1"}], "}"}]}], "]"}], ",", 
    RowBox[{"1", "/", "12"}]}], "]"}]], "Input",
- CellChangeTimes->{{3.6724426211902647`*^9, 3.672442681081668*^9}}],
+ CellChangeTimes->{{3.6724426211902647`*^9, 3.672442681081668*^9}, {
+  3.672443048057816*^9, 3.672443049222555*^9}, {3.672443085424797*^9, 
+  3.672443086436795*^9}}],
 
-Cell[BoxData["\<\"/Users/b2l/GitHub/BoundaryFor3DPrinter/3dBoarder.gif\"\>"], \
+Cell[BoxData["\<\"/Users/b2l/GitHub/BoarderFor3DPrinter/3dBoarder.gif\"\>"], \
 "Output",
- CellChangeTimes->{3.672442691777174*^9}]
+ CellChangeTimes->{3.672442691777174*^9, 3.672443068687764*^9, 
+  3.67244309949258*^9}]
 }, Open  ]]
 },
-WindowSize->{1425, 678},
-WindowMargins->{{45, Automatic}, {19, Automatic}},
+WindowSize->{1056, 678},
+WindowMargins->{{Automatic, 89}, {7, Automatic}},
 FrontEndVersion->"10.2 for Mac OS X x86 (32-bit, 64-bit Kernel) (July 6, \
 2015)",
 StyleDefinitions->"Default.nb"
@@ -309,11 +312,11 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 8564, 240, 416, "Input"],
+Cell[558, 20, 8564, 240, 433, "Input"],
 Cell[9125, 262, 580, 11, 28, "Input"],
 Cell[CellGroupData[{
-Cell[9730, 277, 402, 10, 28, "Input"],
-Cell[10135, 289, 131, 2, 28, "Output"]
+Cell[9730, 277, 500, 12, 28, "Input"],
+Cell[10233, 291, 176, 3, 28, "Output"]
 }, Open  ]]
 }
 ]
